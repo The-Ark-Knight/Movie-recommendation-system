@@ -14,6 +14,7 @@ The primary goal of this project is to provide personalized movie recommendation
 1. **Data Collection and Preprocessing:**
    - We start by gathering a comprehensive dataset of movies, including attributes such as title, genre, and description.
    - The dataset is then cleaned and preprocessed to remove duplicates, handle missing values, and ensure data consistency.
+   - The dataset used is: ![kaggle dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 2. **Text Vectorization:**
    - The descriptions of movies are processed using advanced text vectorization techniques.
